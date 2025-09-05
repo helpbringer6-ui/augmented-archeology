@@ -12,7 +12,7 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/augmented
   .catch(err => console.log(err));
 
 app.get('/', (req, res) => {
-  res.send('Welcome to the Augmented Archeology API!');
+  res.send('Welcome to the Augmented Archaeology API!');
 });
 
 app.listen(PORT, () => {
