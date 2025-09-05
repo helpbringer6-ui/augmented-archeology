@@ -1,7 +1,7 @@
 {
   "name": "augmented-archeology",
   "version": "1.0.0",
-  "description": "Ein Augmented-Reality-Projekt für archäologische Erlebnisse.",
+  "description": "An augmented reality project for archaeological experiences.",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
