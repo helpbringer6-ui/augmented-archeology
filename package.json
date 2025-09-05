@@ -1,14 +1,1 @@
-{
-  "name": "augmented-archeology",
-  "version": "1.0.0",
-  "description": "An augmented reality project for archaeological experiences.",
-  "main": "index.js",
-  "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.10.9"
-  }
-}
+{"name":"augmented-archeology","version":"1.0.0","description":"An augmented reality project for archaeological experiences.","main":"index.js","scripts":{"start":"node server.js","test":"echo \"Error: no test specified\" && exit 1"},"dependencies":{"express":"^4.17.1","mongoose":"^5.12.3"}}
